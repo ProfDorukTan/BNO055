@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="gyro"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="gyro"/>
+			<item value="succ"/>
+			<item value="suuc"/>
+			<item value="accel_datax"/>
+			<item value="chip_id"/>
+			<item value="bno055_data_readout_template"/>
+			<item value="NEVSPACE_BNO055"/>
+			<item value="BNO055_API"/>
+			<item value="I2C_routine"/>
+			<item value="I2C"/>
+			<item value="BNO055_WR_FUNC_PTR"/>
+			<item value="BNO055_I2C_bus_read"/>
+			<item value="BNO055_BUS_READ_FUNC"/>
+			<item value="bus_read"/>
+			<item value="I2c"/>
+		</list>
+		<list key="replacehistory">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1201"/>
+		<item key="DIALOG_Y_ORIGIN" value="319"/>
+		<item key="DIALOG_WIDTH" value="318"/>
+		<item key="DIALOG_HEIGHT" value="354"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-21|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

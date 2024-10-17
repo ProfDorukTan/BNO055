@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BNO055_DRIVER_TEST",
+    "\\BNO055_DRIVER_TEST\\Core",
+    "\\BNO055_DRIVER_TEST\\Core\\Inc",
+    "\\BNO055_DRIVER_TEST\\Core\\Src"
+  ],
+  "SelectedNode": "\\BNO055_DRIVER_TEST\\Core\\Src\\bno055_DorukTanAtila.c",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-bno055_DorukTanAtila",
+      "appliesTo": "BNO055_DRIVER_TEST/Core/Src/bno055_DorukTanAtila.c",
+      "type": "launch"
+    }
+  ]
+}
