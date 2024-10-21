@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;BNO055_DRIVER_TEST2/BNO055_DRIVER_TEST Debug.launch&apos;" deleteContents="false" description="Delete resource &apos;BNO055_DRIVER_TEST2/BNO055_DRIVER_TEST Debug.launch&apos;" element1="/BNO055_DRIVER_TEST2/BNO055_DRIVER_TEST Debug.launch" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1729524113076"/>
+</session>

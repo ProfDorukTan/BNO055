@@ -1,0 +1,31 @@
+/*
+ * Doruk_Helper_Functions.h
+ *
+ *  Created on: Oct 21, 2024
+ *      Author: Doruk Tan Atila
+ */
+
+#ifndef INC_DORUK_HELPER_FUNCTIONS_H_
+#define INC_DORUK_HELPER_FUNCTIONS_H_
+
+
+#include <stdio.h>
+
+/*
+ * Functions to setup serial comms to Teraterm
+ */
+
+int _write(UART_HandleTypeDef *huart, int file, char *data, int len) {
+    HAL_UART_Transmit(huart, (uint8_t*)data, len, HAL_MAX_DELAY);
+    return len;
+}
+
+void teraterm_init(){
+
+}
+void teraterm_printf(){
+
+
+}
+
+#endif /* INC_DORUK_HELPER_FUNCTIONS_H_ */

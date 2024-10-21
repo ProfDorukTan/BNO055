@@ -1,4 +1,4 @@
-01:38:08 **** Incremental Build of configuration Debug for project BNO055_DRIVER_TEST ****
+16:10:57 **** Incremental Build of configuration Debug for project BNO055_DRIVER_TEST ****
 make -j16 all 
 arm-none-eabi-size  BNO055_DRIVER_TEST.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size  BNO055_DRIVER_TEST.elf
 Finished building: default.size.stdout
  
 
-01:38:08 Build Finished. 0 errors, 0 warnings. (took 421ms)
+16:10:58 Build Finished. 0 errors, 0 warnings. (took 380ms)
 

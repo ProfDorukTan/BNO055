@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BNO055_DRIVER_TEST2/BNO055_DRIVER_TEST.ioc&apos; to &apos;BNO055_DRIVER_TEST2.ioc&apos;" description="Rename resource &apos;BNO055_DRIVER_TEST.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="BNO055_DRIVER_TEST.ioc" name="BNO055_DRIVER_TEST2.ioc" stamp="1729524133029" updateReferences="true"/>
+</session>
